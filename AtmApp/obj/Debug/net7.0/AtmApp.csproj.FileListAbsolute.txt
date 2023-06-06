@@ -1,0 +1,15 @@
+/Users/abdul/Desktop/projects/c#/AtmApp/AtmApp/obj/Debug/net7.0/AtmApp.csproj.AssemblyReference.cache
+/Users/abdul/Desktop/projects/c#/AtmApp/AtmApp/obj/Debug/net7.0/AtmApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdul/Desktop/projects/c#/AtmApp/AtmApp/obj/Debug/net7.0/AtmApp.AssemblyInfoInputs.cache
+/Users/abdul/Desktop/projects/c#/AtmApp/AtmApp/obj/Debug/net7.0/AtmApp.AssemblyInfo.cs
+/Users/abdul/Desktop/projects/c#/AtmApp/AtmApp/obj/Debug/net7.0/AtmApp.csproj.CoreCompileInputs.cache
+/Users/abdul/Desktop/projects/c#/AtmApp/AtmApp/bin/Debug/net7.0/AtmApp
+/Users/abdul/Desktop/projects/c#/AtmApp/AtmApp/bin/Debug/net7.0/AtmApp.deps.json
+/Users/abdul/Desktop/projects/c#/AtmApp/AtmApp/bin/Debug/net7.0/AtmApp.runtimeconfig.json
+/Users/abdul/Desktop/projects/c#/AtmApp/AtmApp/bin/Debug/net7.0/AtmApp.dll
+/Users/abdul/Desktop/projects/c#/AtmApp/AtmApp/bin/Debug/net7.0/AtmApp.pdb
+/Users/abdul/Desktop/projects/c#/AtmApp/AtmApp/obj/Debug/net7.0/AtmApp.dll
+/Users/abdul/Desktop/projects/c#/AtmApp/AtmApp/obj/Debug/net7.0/refint/AtmApp.dll
+/Users/abdul/Desktop/projects/c#/AtmApp/AtmApp/obj/Debug/net7.0/AtmApp.pdb
+/Users/abdul/Desktop/projects/c#/AtmApp/AtmApp/obj/Debug/net7.0/AtmApp.genruntimeconfig.cache
+/Users/abdul/Desktop/projects/c#/AtmApp/AtmApp/obj/Debug/net7.0/ref/AtmApp.dll
